@@ -10,8 +10,8 @@
 - 📫 How to reach me **ry840408@gmail.com**
 
 - 📄 Checkout MY [Resume] [https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link](https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link)
-- 
- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-yadav-a0760024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-yadav-a0760024b" height="30" width="40" /></a>
