@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi , I'm Rohan Yaadav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **ry840408@gmail.com**
 
 - 📄 Checkout MY [Resume] [https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link](https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
