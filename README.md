@@ -1,5 +1,5 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<img src="https://github.com/Rohanyadav24/Rohanyadav24/blob/main/life_balance%20(1).gif" alt="side Gif" align="right" width="150" height="auto"/>
+<img src="https://github.com/Rohanyadav24/Rohanyadav24/blob/main/life_balance%20(1).gif" alt="side Image" align="right" width="200" height="auto"/>
 
 <h1 align="center">Hi , I'm Rohan Yadav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
