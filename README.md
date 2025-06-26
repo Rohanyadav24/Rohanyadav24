@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-yadav-a0760024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-yadav-a0760024b" height="30" width="40" /></a>
 <a href="https://instagram.com/rohanyadav1887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanyadav1887" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rohan_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohan_100" height="30" width="40" /></a>
-<a href="https://x.com/rohanyadav_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/x.svg"  alt="https://x.com/rohanyadav_24" height="30" width="40"></a>
+<a href="https://x.com/rohanyadav_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rohanyadav_24" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
