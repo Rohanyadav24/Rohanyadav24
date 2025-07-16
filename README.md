@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, Data Structures and Algorithms**
 
-- 📫 How to reach me **ry840408@gmail.com**
+- 📫 How to reach me **ry840408@gmail.com** 
 
 - 📄 Checkout MY [Resume] [https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link](https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link)
 
