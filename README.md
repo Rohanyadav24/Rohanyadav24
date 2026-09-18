@@ -80,16 +80,6 @@ A backend-focused expense management application implementing CRUD operations, a
 * Greedy & Dynamic Programming
 * BFS, DFS & shortest-path algorithms
 
-### 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanyadav24&show_icons=true&locale=en" alt="Rohan Yadav GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyadav24&show_icons=true&locale=en&layout=compact" alt="Rohan Yadav Top Languages" />
-</p>
-
 ### 🔗 Connect With Me
 
 <p align="left">
