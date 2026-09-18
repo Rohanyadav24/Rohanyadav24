@@ -3,7 +3,7 @@
 
 ### AI/ML & Full Stack Developer | Python | Java | React | Backend Development
 
-I'm a recent **B.Tech graduate** passionate about building practical software and AI-powered applications. I work across **AI/ML, backend development, and full-stack web development**, with a strong focus on problem solving and DSA.
+I'm a **B.Tech graduate** passionate about building software and AI-powered applications. I work across **AI/ML and full-stack web development**, with a strong focus on problem solving and DSA.
 
 * 🔭 Currently building and exploring **AI/ML and full-stack applications**
 * 🌱 Currently learning **Machine Learning, NLP, AI APIs, and backend development**
