@@ -1,30 +1,115 @@
- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-    
-<h1 align="center">Hi👋, I'm Rohan Yadav</h1> 
-<h3 align="center">A passionate Software developer from India</h3>
-         
-     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanyadav24&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyadav24" /> </p>
+# 👋 Hi, I'm Rohan Yadav
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+### AI/ML & Full Stack Developer | Python | Java | React | Backend Development
 
-- 💬 Ask me about **MERN, Data Structures and Algorithms**
+I'm a recent **B.Tech graduate** passionate about building practical software and AI-powered applications. I work across **AI/ML, backend development, and full-stack web development**, with a strong focus on problem solving and DSA.
 
-- 📫 How to reach me **ry840408@gmail.com** 
+* 🔭 Currently building and exploring **AI/ML and full-stack applications**
+* 🌱 Currently learning **Machine Learning, NLP, AI APIs, and backend development**
+* 💻 Experienced with **Python, Java, JavaScript, React, Node.js, Express.js, and Spring Boot**
+* 🤖 Interested in **AI/ML, NLP, LLM-powered applications, and intelligent developer tools**
+* 🧠 Solved **400+ DSA problems** across platforms including LeetCode
+* 📫 Reach me at **[ry840408@gmail.com](mailto:ry840408@gmail.com)**
 
-- 📄 Checkout MY [Resume] [https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link](https://drive.google.com/file/d/1fAs_GBjWPzJPGnOXVYjiXnWRdCP4JEWa/view?usp=drive_link)
+### 🚀 Featured Projects
 
+#### 🤖 ATS Resume Scorer
 
-<h3 align="left">Connect with me:</h3>
+**Python • FastAPI • Streamlit • spaCy • Sentence Transformers • Groq API • Supabase**
+
+An AI-powered resume analysis application that evaluates resumes against job descriptions using NLP, semantic similarity, skill extraction, and LLM-powered analysis.
+
+#### 📈 Stock Trading Web Application
+
+**React • Node.js • Express.js • MongoDB • REST APIs • JWT**
+
+A full-stack stock trading platform with market data integration, portfolio management, authentication, and simulated trading functionality.
+
+#### 💰 Expense Tracker
+
+**Java • Spring Boot • MySQL • Spring Security • REST APIs**
+
+A backend-focused expense management application implementing CRUD operations, authentication, validation, and RESTful APIs.
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-yadav-a0760024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-yadav-a0760024b" height="30" width="40" /></a>
-<a href="https://instagram.com/rohanyadav1887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanyadav1887" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rohan_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohan_100" height="30" width="40" /></a>
-<a href="https://x.com/rohanyadav_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rohanyadav_24" height="30" width="40"></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🤖 AI / ML
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyadav24&show_icons=true&locale=en&layout=compact" alt="rohanyadav24" /></p>
+* Python
+* NumPy & Pandas
+* NLP
+* spaCy
+* Sentence Transformers
+* Semantic Similarity
+* LLM APIs
+* Groq API
+* FastAPI
+* Streamlit
 
+### 💻 Development
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express.js, Spring Boot, FastAPI
+* **Databases:** MongoDB, MySQL, Supabase
+* **Authentication:** JWT, Spring Security
+* **Tools:** Git, GitHub, Postman, Linux, VS Code
+
+### 🧩 Problem Solving
+
+* 400+ DSA problems solved
+* Arrays, Strings, Linked Lists, Stacks & Queues
+* Hashing, Trees & Graphs
+* Recursion & Backtracking
+* Greedy & Dynamic Programming
+* BFS, DFS & shortest-path algorithms
+
+### 📊 GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanyadav24&show_icons=true&locale=en" alt="Rohan Yadav GitHub Stats" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyadav24&show_icons=true&locale=en&layout=compact" alt="Rohan Yadav Top Languages" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rohan-yadav-a0760024b" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/rohan_100/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+
+<a href="https://x.com/rohanyadav_24" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/rohanyadav1887" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+⭐ **Always learning, building, and solving problems.**
